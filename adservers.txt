@@ -4163,8 +4163,6 @@
 0.0.0.0 adservetx.media.net
 0.0.0.0 adservex-demo.media.net
 0.0.0.0 adservex.media.net
-0.0.0.0 adservice.google.co.in
-0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.ua
 0.0.0.0 adservingbase.ace.advertising.com
 0.0.0.0 adservingsolutionsinc.adk2x.com
@@ -5084,7 +5082,6 @@
 0.0.0.0 appad.adiquity.com
 0.0.0.0 appad-api-01.perfectcorp.com
 0.0.0.0 appad-api.perfectcorp.cn
-0.0.0.0 app.adjust.com
 0.0.0.0 app.adomik.com
 0.0.0.0 app.adrecover.com
 0.0.0.0 app.adroll.com
@@ -10823,7 +10820,6 @@
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleadservices.com
-0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 google-analytics.bi.owox.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleplaysetvices.com
@@ -13649,7 +13645,6 @@
 0.0.0.0 magnetic.domdex.com
 0.0.0.0 magnetis.t.domdex.com
 0.0.0.0 magneto01.ifd.vip.ev1.inmobi.com
-0.0.0.0 ma.googleads.g.doubleclick.net
 0.0.0.0 maharishi.d1.sc.omtrdc.net
 0.0.0.0 mahrez.alphonso.tv
 0.0.0.0 main.atdmt.com
@@ -22865,8 +22860,6 @@
 0.0.0.0 www.get.unbounce.com
 0.0.0.0 www.go.apptimize.com
 0.0.0.0 www.go.kissmetrics.com
-0.0.0.0 www.googleadservices.com
-0.0.0.0 www.googleads.g.doubleclick.net
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www-google--analytics-com.cdn.ampproject.org
 0.0.0.0 www.google-analytics.com.domain.name

@@ -4976,7 +4976,6 @@ emtemp.gcom.cloud
 use.edgefonts.net
 userservice-api.channel5.com.edgekey.net
 feeds-api.channel5.com.edgekey.net
-ynet-images1.yit.co.il
 backend-craghoppers-uk.basecamp-pwa-prod.com
 backend-regatta-uk.basecamp-pwa-prod.com
 image.spreadshirtmedia.net

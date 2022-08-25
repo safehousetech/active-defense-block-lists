@@ -3254,7 +3254,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 doubleclick.net
 127.0.0.1 feedads.g.doubleclick.net
 127.0.0.1 fls.doubleclick.net
-127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 iv.doubleclick.net
 127.0.0.1 m.2mdn.net
 127.0.0.1 m.doubleclick.net
@@ -5875,8 +5874,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 adserversolutions.com
 127.0.0.1 adservice.google.ca
 127.0.0.1 adservice.google.co.za
-127.0.0.1 adservice.google.com
-127.0.0.1 adservice.google.com.au
 127.0.0.1 adservice.google.cz
 127.0.0.1 adservice.google.nl
 127.0.0.1 adseu.novem.pl
@@ -10023,7 +10020,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.gigdnetwork.com
 127.0.0.1 www.gm4pgv.plus.com
 127.0.0.1 www.gmads.net
-127.0.0.1 www.googleadservices.com
 127.0.0.1 www.grabbit-rabbit.com
 127.0.0.1 www.greasypalm.com
 127.0.0.1 www.greatdexchange.com

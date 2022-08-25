@@ -544,21 +544,6 @@
 127.0.0.1 prod.fraud.adjoe.zone
 127.0.0.1 prod.adjoe.zone
 
-# [adjust.com]
-127.0.0.1 adjust.com
-127.0.0.1 app.adjust.com
-127.0.0.1 s2s.adjust.com
-127.0.0.1 ulink.adjust.com
-127.0.0.1 app.us.adjust.com
-127.0.0.1 view.adjust.com
-
-# [adjust.net.in]
-127.0.0.1 adjust.net.in
-127.0.0.1 app.adjust.net.in
-
-# [adjust.world]
-127.0.0.1 adjust.world
-127.0.0.1 app.adjust.world
 
 # [adkernel.com]
 127.0.0.1 dsp.adkernel.com
@@ -3961,8 +3946,6 @@
 127.0.0.1 adx.g.doubleclick.net
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 googleads4.g.doubleclick.net
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 stats.g.doubleclick.net
@@ -4916,14 +4899,8 @@
 127.0.0.1 www.google-analytics.com
 
 # [google.com]
-127.0.0.1 ads.google.com
-127.0.0.1 adservice.google.com
 127.0.0.1 s0-2mdn-net.l.google.com
 
-# [googleadservices.com]
-127.0.0.1 googleadservices.com
-127.0.0.1 pagead2.googleadservices.com
-127.0.0.1 www.googleadservices.com
 
 # [googleadsserving.cn]
 127.0.0.1 static.googleadsserving.cn
@@ -8775,9 +8752,6 @@
 127.0.0.1 s.update.rubiconproject.com
 127.0.0.1 video-ads.rubiconproject.com
 127.0.0.1 video-ads-apex.rubiconproject.com
-
-# [rudderlabs.com]
-127.0.0.1 api.rudderlabs.com
 
 # [ruetracking.com]
 127.0.0.1 prdwebcollector.ruetracking.com

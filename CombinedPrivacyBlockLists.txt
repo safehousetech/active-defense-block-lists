@@ -16293,7 +16293,6 @@
 0.0.0.0 api.rqmob.com
 0.0.0.0 api.rtnews.pro
 0.0.0.0 api.rubic.com.tr
-0.0.0.0 api.rudderlabs.com
 0.0.0.0 api.ryanyao.design
 0.0.0.0 api.safedk.com
 0.0.0.0 api.safegraph.com
@@ -42465,8 +42464,6 @@
 0.0.0.0 fireb1.com
 0.0.0.0 fireb2.com
 0.0.0.0 firebanner.com
-0.0.0.0 firebaselogging-pa.googleapis.com
-0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firecash.org
 0.0.0.0 firecpa.com
 0.0.0.0 firecracks.com
@@ -47313,7 +47310,6 @@
 0.0.0.0 google247.xyz
 0.0.0.0 google360.xyz
 0.0.0.0 googleadapis.l.google.com
-0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads.github.io
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
@@ -109895,8 +109891,6 @@
 0.0.0.0 www.gold-city.it
 0.0.0.0 www.golp4elik.com
 0.0.0.0 www.google-analytics.com
-0.0.0.0 www.googleadservices.com
-0.0.0.0 www.googleanalytics.com
 0.0.0.0 www.googleoptimize.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
