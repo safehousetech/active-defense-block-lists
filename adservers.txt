@@ -37991,7 +37991,6 @@
 0.0.0.0 grooksom.com
 0.0.0.0 itpatratr.com
 0.0.0.0 xr8wv50k1daj.com
-0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 web-analytics.smile.io
 0.0.0.0 track.wattpad.com
@@ -38110,7 +38109,6 @@
 0.0.0.0 europe.adserver.yahoo.com
 0.0.0.0 exitsplash.s3.amazonaws.com
 0.0.0.0 fc.yahoo.com
-0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 flury-ycpi.gycpi.b.yahoodns.net
 0.0.0.0 fr.adserver.yahoo.com
 0.0.0.0 fr.advertising.yahoo.com

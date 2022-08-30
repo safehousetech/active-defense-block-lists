@@ -771,7 +771,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 fastwebcounter.com
 127.0.0.1 fdbdo.com
 127.0.0.1 fi.sitestat.com
-127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 fl01.ct2.comclick.com
 127.0.0.1 flixprice.com
 127.0.0.1 flury-ycpi.gycpi.b.yahoodns.net
