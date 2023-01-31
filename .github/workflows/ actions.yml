@@ -30,7 +30,9 @@ jobs:
           git config --local user.orphansinneed103@gmail.com "action@github.com"
           git config --local user.ShivamSinghSRE "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+          git rev-list --objects --all | git cat-file --batch-check='%(objecttype) %(objectname) %(objectsize) %(rest)' | awk '/^blob/ {print substr($0,6)}' | sort --numeric-sort --key=2 -r | head -n 20
+          git diff-index --quiet HEAD || (git commit -a -m "update target" --allow-empty)
+          
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
