@@ -7,6 +7,12 @@ NOTE:
 2.We have configured github action to run cron job in every to hours to update the files and push the changes into github as blob commit .
 3. we have creted json files to get url and files as reference 
 
+## Tech Stack
+
+Python
+Github Action
+Bash Script
+
 ## URL and Files input.json Color Reference
 
 | URL            | FILES                                                                |
@@ -22,25 +28,17 @@ NOTE:
 
 ## Installation
 
-Install my-project with npm
+Install dependency 
 
 ```bash
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 python3 script.py
 
-## Tech Stack
-
-Python
-Github Action
-Bash Script
-
-
-
 
 ## Deployment
 
-To deploy this project run
+To sync the changes from host to target 
 
 ```bash
   python3 script.py
