@@ -22,8 +22,8 @@ Bash Script
 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts | StevenBlack.txt|
 | https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt |GoodbyeAds.txt|
 | https://block.energized.pro/blu/formats/domains.txt |energized.txt|
-|https://github.com/d3ward/toolz/blob/master/src/d3host.txt||d3host.txt|
-|https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt||ads-and-tracking-extended.txt|
+| https://github.com/d3ward/toolz/blob/master/src/d3host.txt |d3host.txt|
+| https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |ads-and-tracking-extended.txt|
 
 
 ## Installation
