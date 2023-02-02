@@ -1,4 +1,4 @@
-name: run script.py
+name: run main.py
 
 on:
   schedule:
@@ -10,12 +10,12 @@ jobs:
     steps:
 
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
+        uses: actions/checkout@v3 # checkout the repository content to github runner
 
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9' # install the python version needed
+          python-version: '3.11' # install the python version needed
           
       - name: install python packages
         run: |
@@ -23,13 +23,13 @@ jobs:
           pip install -r requirements.txt
           
       - name: execute py script # run main.py
-        run: python script.py
+        run: python main.py
           
       - name: commit files
         run: |
           git add -A
           git rev-list --objects --all | git cat-file --batch-check='%(objecttype) %(objectname) %(objectsize) %(rest)' | awk '/^blob/ {print substr($0,6)}' | sort --numeric-sort --key=2 -r | head -n 20
-          git diff-index --quiet HEAD || (git commit -a -m "update target" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "update localhost ip and url into target files" )
           
           
       - name: push changes

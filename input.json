@@ -1,9 +1,0 @@
-[
-    {"url":"https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt","file":"adaway.txt"},
-    {"url":"https://someonewhocares.org/hosts/hosts","file":"someonewhocares.txt"},
-    {"url":"https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts","file":"StevenBlack.txt"},
-    {"url":"https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt","file":"GoodbyeAds.txt"},
-    {"url":"https://block.energized.pro/blu/formats/domains.txt","file":"energized.txt"},
-    {"url":"https://github.com/d3ward/toolz/blob/master/src/d3host.txt","file":"d3host.txt"},
-    {"url":"https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt","file":"ads-and-tracking-extended.txt"} 
-]
