@@ -25,10 +25,9 @@ jobs:
         run: python main.py
 
       - name: commit files
-        run: |
-          git add -A
-          git rev-list --objects --all | git cat-file --batch-check='%(objecttype) %(objectname) %(objectsize) %(rest)' | awk '/^blob/ {print substr($0,6)}' | sort --numeric-sort --key=2 -r | head -n 20
-          git diff-index --quiet HEAD || (git commit -a -m "update localhost ip and url into target files" )
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+           commit_message: update localhost ip and url into target files
 
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
