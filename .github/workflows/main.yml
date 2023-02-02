@@ -1,8 +1,11 @@
 name: run main.py
 
 on:
-  schedule:
-    - cron: '0 */2 * * *' # Every Two Hours 
+ # schedule:
+ #   - cron: '0 */2 * * *' # Every Two Hours 
+  push:
+    branches:
+      - DV-1896
 
 jobs:
   build:
