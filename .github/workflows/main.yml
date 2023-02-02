@@ -1,11 +1,8 @@
 name: run main.py
 
 on:
- # schedule:
- #   - cron: '0 */2 * * *' # Every Two Hours 
-  push:
-    branches:
-      - DV-1896
+  schedule:
+    - cron: '0 */2 * * *' # Every Two Hours 
 
 jobs:
   build:
@@ -39,4 +36,4 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.ACTIONS_TOKEN }}
-          branch: DV-1896
+          branch: develop
