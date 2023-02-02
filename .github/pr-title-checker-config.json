@@ -1,15 +1,15 @@
 {
-	"LABEL": {
-		"name": "title needs formatting",
-		"color": "EEEEEE"
-	},
-	"CHECKS": {
-		"regexp": "DV-[0-9]{4} \\((infra|doc|chore|fix|feat)\\): [a-zA-Z].*",
-		"regexpFlags": "i"
-	},
-	"MESSAGES": {
-		"success": "All OK",
-		"failure": "Failing CI test",
-		"notice": ""
-	}
+  "LABEL": {
+    "name": "title needs formatting",
+    "color": "EEEEEE"
+  },
+  "CHECKS": {
+    "regexp": "DV-[0-9]{4} \\((infra|doc|chore|fix|feat)\\): [a-zA-Z].*",
+    "regexpFlags": "i"
+  },
+  "MESSAGES": {
+    "success": "All OK",
+    "failure": "Failing CI test",
+    "notice": ""
+  }
 }
