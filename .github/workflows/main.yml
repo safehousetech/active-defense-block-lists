@@ -1,8 +1,9 @@
 name: run main.py
 
 on:
-  schedule:
-    - cron: "0 */2 * * *" # Every Two Hours
+   workflow_dispatch
+ # schedule:
+ #   - cron: "0 */2 * * *" # Every Two Hours
 
 jobs:
   build:
@@ -28,6 +29,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
            commit_message: update localhost ip and url into target files
+           push_options: --force
 
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
