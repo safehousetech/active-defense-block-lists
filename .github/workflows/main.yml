@@ -1,7 +1,7 @@
 name: run main.py
 
 on:
-  schedule:
+   schedule:
     - cron: "0 */2 * * *" # Every Two Hours
 
 jobs:
@@ -28,9 +28,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
            commit_message: update localhost ip and url into target files
+           push_options: --force
 
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.ACTIONS_TOKEN }}
-          branch: develop
+
