@@ -2,6 +2,7 @@ name: run main.py
 
 on:
    schedule:
+
     - cron: "0 22 * * *" # onces in a day 
 
 jobs:

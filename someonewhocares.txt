@@ -83,7 +83,425 @@ ff02::3		ip6-allhosts
 
 #<shock-sites>
 # For example, to block unpleasant pages, try:
-127.0.0.1 goatse.cx       # More information on sites such as
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
 127.0.0.1 www.oralse.cx
@@ -95,7 +513,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.goat.cx
 127.0.0.1 shafou.com
 127.0.0.1 www.shafou.com
-
 127.0.0.1 1girl1pitcher.com
 127.0.0.1 1girl1pitcher.org
 127.0.0.1 1guy1cock.com
@@ -268,81 +685,20 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.zentastic.com
 127.0.0.1 youaresogay.com
 127.0.0.1 zentastic.com
-#</shock-sites>
-
-#<shortcut-examples>
-# As well by specifying the ipaddress of a server, you can gain access
-#   to some of your favourite sites with a single letter, instead of
-#   using the whole domain name
-# It is perhaps a better solution to use Favourites/Bookmarks instead.
-#216.34.181.45   s        # slashdot.org
-#74.125.127.105	g        # google.com
-#</shortcut-examples>
-
-#<hijack-sites>
-# The sites ads234.com and ads345.com -- These sites hijack internet explorer
-# and redirect all requests through their servers. You may need to use spyware
-# removal programs such as SpyBotS&amp;D, AdAware or HijackThis to remove this
-# nasty parasite. It's possible that blocking these sites using a hosts file
-# may not work, in which case you should remove the following lines from this
-# file and try the tools listed above immediately. Don't forget to reboot
-# after a scan.
 127.0.0.1 ads234.com
 127.0.0.1 ads345.com
 127.0.0.1 www.ads234.com
 127.0.0.1 www.ads345.com
-#</hijack-sites>
-
-
-#<spyware-sites>
-# Spyware and user tracking
-# By entering domains here, it will prevent certain companies from
-# gathering information on your surfing habits. These servers do not
-# necessarily serve ads, instead some are used by certain products to
-# "phone home". Others use web cookies to gather statistics on surfing
-# habits. Among other uses, this is a common tactic by spammers, to
-# let them know that you have read your mail.
-# Uncomment (remove the #) the lines that you wish to block, as some
-# may provide you with services you like.
-
-#<maybe-spy>
-#127.0.0.1 auto.search.msn.com  # Microsoft uses this server to redirect
                                 # mistyped URLs to search engines. They
                                 # log all such errors.
-#127.0.0.1 sitefinder.verisign.com	# Verisign has joined the game
-#127.0.0.1 sitefinder-idn.verisign.com	# of trying to hijack mistyped
-					# URLs to their site.
+					# URLs to their site. 
 					# May break iOS Game Center.
-
-#127.0.0.1 s0.2mdn.net		# This may interfere with some streaming
 				# video on sites such as cbc.ca
-#127.0.0.1 ad.doubleclick.net   # This may interefere with www.sears.com
-				# and potentially other sites.
+				# and potentially other sites. 
 127.0.0.1 media.fastclick.net	# Likewise, this may interfere with some
-127.0.0.1 cdn.fastclick.net	# sites.
-#127.0.0.1 ebay.doubleclick.net		# may interfere with ebay
-#127.0.0.1 google-analytics.com			# breaks some sites
-#127.0.0.1 ssl.google-analytics.com
-#127.0.0.1 www.google-analytics.l.google.com
-#127.0.0.1 stat.livejournal.com		# There are reports that this may mess
+127.0.0.1 cdn.fastclick.net	# sites. 
  					# up CSS on livejournal
-#127.0.0.1 stats.surfaid.ihost.com	# This has been known cause
 					# problems with NPR.org
-#127.0.0.1 www.google-analytics.com		# breaks some sites
-#127.0.0.1 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
-#</maybe-spy>
-
-#127.0.0.1 ci-mpsnare.iovation.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
-#127.0.0.1 ll.a.hulu.com	# Uncomment to block Hulu.
-#127.0.0.1 metrics.ticketmaster.com	# interferes with logging in to ticketmaster.com
-#127.0.0.1 nl.sitestat.com	# may interfere with duo.nl
-#127.0.0.1 pro.hit.gemius.pl	# May interfere with some video sites
-#127.0.0.1 services.krxd.net
-#127.0.0.1 stats.channel4.com
-#127.0.0.1 t2.hulu.com		# Uncomment to block Hulu.
-#127.0.0.1 track.hulu.com	# Uncomment to block Hulu.
-#127.0.0.1 webstat.channel4.com
-#127.0.0.1 www.googletagservices.com		#interferes with techrepublic
 127.0.0.1 006.free-counter.co.uk
 127.0.0.1 006.freecounters.co.uk
 127.0.0.1 0stats.com
@@ -368,8 +724,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 addfreestats.com
 127.0.0.1 adelogs.adobe.com	#See http://www.theregister.co.uk/2014/10/07/adobe_digital_editions_4_caught_snooping_into_ebook_collections_of_users/
 127.0.0.1 ademails.com
-127.0.0.1 adlog.com.com # Used by Ziff Davis to serve
-  # ads and track users across
+127.0.0.1 adlog.com.com # Used by Ziff Davis to serve 
+  # ads and track users across 
   # the com.com family of sites
 127.0.0.1 admin.iovation.com
 127.0.0.1 adopt.specificclick.net
@@ -651,8 +1007,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 counteraport.spylog.com
 127.0.0.1 counterbot.com
 127.0.0.1 countercrazy.com
-127.0.0.1 counters.auctionhelper.com		# comment these
-127.0.0.1 counters.auctionwatch.com		# out to allow
+127.0.0.1 counters.auctionhelper.com		# comment these 
+127.0.0.1 counters.auctionwatch.com		# out to allow 
 127.0.0.1 counters.auctiva.com			# tracking by
 127.0.0.1 counters.honesty.com			# ebay users
 127.0.0.1 cs.sexcounter.com
@@ -771,6 +1127,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 fastwebcounter.com
 127.0.0.1 fdbdo.com
 127.0.0.1 fi.sitestat.com
+127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 fl01.ct2.comclick.com
 127.0.0.1 flixprice.com
 127.0.0.1 flury-ycpi.gycpi.b.yahoodns.net
@@ -868,6 +1225,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.revsci.net
 127.0.0.1 justtrck.com
+127.0.0.1 k.clarity.ms
 127.0.0.1 kissmetrics.com
 127.0.0.1 kqzyfj.com
 127.0.0.1 kt4.kliptracker.com
@@ -1047,7 +1405,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 s.bl-1.com
 127.0.0.1 s.clickability.com
 127.0.0.1 s.go-mpulse.net
-127.0.0.1 s.update.fbsbx.com
+127.0.0.1 s.update.fbsbx.com 
 127.0.0.1 s.youtube.com				# Blocking this will interfere with video watching history
 127.0.0.1 s1-tracking.adalyser.com
 127.0.0.1 s1.shinystat.it
@@ -1571,10 +1929,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 xxxcounter.com
 127.0.0.1 xyz.freelogs.com
 127.0.0.1 zz.cqcounter.com
-#</spyware-sites>
-#<malware-sites>
-
-# sites with known trojans, phishing, or other malware
 127.0.0.1 0.nextyourcontent.com
 127.0.0.1 05tz2e9.com
 127.0.0.1 1001paixnidia.fr
@@ -1662,8 +2016,10 @@ ff02::3		ip6-allhosts
 127.0.0.1 ancree.fr
 127.0.0.1 android.bigresource.com
 127.0.0.1 androiddev.orkitra.com
+127.0.0.1 andromedawallet.com
 127.0.0.1 aneralflas.club
 127.0.0.1 angers-radioloagie.fr
+127.0.0.1 anian1.weebly.com
 127.0.0.1 anouslab.cmail20.com
 127.0.0.1 answerhub.com
 127.0.0.1 antispywareexpert.com
@@ -1859,6 +2215,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 chatroll.fr
 127.0.0.1 chch.fr
 127.0.0.1 checkfreevideos.net
+127.0.0.1 checkout360now.net
 127.0.0.1 chelick.net				# Facebook trojan
 127.0.0.1 chienvoyageur.fr
 127.0.0.1 choisimoncode.fr
@@ -1970,6 +2327,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 dirtmountainbike.fr
 127.0.0.1 disneyholidays.fr
 127.0.0.1 dns2.net1.it
+127.0.0.1 dnythgt.com
 127.0.0.1 dogry.fr
 127.0.0.1 dogtrace.fr
 127.0.0.1 domaine-voyance.fr
@@ -2305,6 +2663,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 lavoixedunord.fr
 127.0.0.1 laxifoot.fr
 127.0.0.1 lbouyguestelecom.fr
+127.0.0.1 lbrtry.com
 127.0.0.1 lcastorama.fr
 127.0.0.1 lcolissimo.fr
 127.0.0.1 lcpr.fr
@@ -2495,6 +2854,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 mobpushup.com
 127.0.0.1 moddb.fr
 127.0.0.1 mojn.com
+127.0.0.1 momatyn.store
 127.0.0.1 momentspa.fr
 127.0.0.1 mon-conertisseur.fr
 127.0.0.1 monbureaunumeriques.fr
@@ -2524,6 +2884,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 muttuelle.fr
 127.0.0.1 muwuo.comfortykive.xyz
 127.0.0.1 mv0129.stream
+127.0.0.1 mvspjwd.com
 127.0.0.1 mx1.freemail.ne.jp
 127.0.0.1 mycaal.fr
 127.0.0.1 mycnal.fr
@@ -3185,6 +3546,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.weknow.ac
 127.0.0.1 www.wewillrocknow.com
 127.0.0.1 www.willysy.com
+127.0.0.1 www.winlottofrequently.com
 127.0.0.1 www.youfiletor.com
 127.0.0.1 wyoutube.fr
 127.0.0.1 xcdkb.comfortykive.xyz
@@ -3194,6 +3556,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 xxlargepop.com
 127.0.0.1 yachtingmagazine.fr
 127.0.0.1 ycapital.fr
+127.0.0.1 yev.moviesdirectpro.com
 127.0.0.1 yexex.comfortykive.xyz
 127.0.0.1 ykocr.comfortykive.xyz
 127.0.0.1 ymail-activate1.bugs3.com
@@ -3215,11 +3578,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 zip.er.cz
 127.0.0.1 zzhc.vnet.cn
 127.0.0.1 zzkwg.comfortykive.xyz
-#</malware-sites>
-
-#<doubleclick-sites>
-
-#127.0.0.1 pubads.g.doubleclick.net	#interferes with video on cwtv.com
 127.0.0.1 ad-emea.doubleclick.net
 127.0.0.1 ad-g.doubleclick.net
 127.0.0.1 ad.ae.doubleclick.net
@@ -3253,6 +3611,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 doubleclick.net
 127.0.0.1 feedads.g.doubleclick.net
 127.0.0.1 fls.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 iv.doubleclick.net
 127.0.0.1 m.2mdn.net
 127.0.0.1 m.doubleclick.net
@@ -3263,10 +3622,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.l.doubleclick.net
 127.0.0.1 ukrpts.net
-#</doubleclick-sites>
-
-#<intellitxt-sites>
-
 127.0.0.1 contactmusic.uk.intellitxt.com
 127.0.0.1 ferrago.uk.intellitxt.com
 127.0.0.1 freedownloadcenter.uk.intellitxt.com
@@ -3290,12 +3645,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 softpedia.uk.intellitxt.com
 127.0.0.1 splashnews.uk.intellitxt.com
 127.0.0.1 wi-fitechnology.uk.intellitxt.com
-#</intellitxt-sites>
-
-#<red-sheriff-sites>
-
-# Red Sheriff and imrworldwide.com  -- server side tracking
-#127.0.0.1 secure-au.imrworldwide.com
 127.0.0.1 fe-au.imrworldwide.com
 127.0.0.1 fe1-au.imrworldwide.com
 127.0.0.1 fe2-au.imrworldwide.com
@@ -3335,11 +3684,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 server-us.imrworldwide.com
 127.0.0.1 telstra.imrworldwide.com
 127.0.0.1 www.redsheriff.com
-#</red-sheriff-sites>
-
-#<cydoor-sites>
-
-# cydoor -- server side tracking
 127.0.0.1 cydoor.com
 127.0.0.1 j.2004cms.com
 127.0.0.1 jbaventures.cjt1.net
@@ -3404,13 +3748,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 jumcna.cjt1.net
 127.0.0.1 jwebbsense.cjt1.net
 127.0.0.1 www.cydoor.com
-#</cydoor-sites>
-
-#<2o7-sites>
-
-# 2o7.net -- server side tracking
-#127.0.0.1 appleglobal.112.2o7.net	#breaks apple.com
-#127.0.0.1 applestoreus.112.2o7.net	#breaks apple.com
 127.0.0.1 102.112.2o7.net
 127.0.0.1 102.122.2o7.net
 127.0.0.1 112.2o7.net
@@ -3871,11 +4208,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 yrkeve.112.2o7.net
 127.0.0.1 ziffdavisglobal.112.2o7.net
 127.0.0.1 ziffdavispennyarcade.112.2o7.net
-#</2o7-sites>
-
-#<oewabox-sites>
-
-# oewabox.at -- 'Austrian Webanalysis Society'
 127.0.0.1 1000ps.oewabox.at
 127.0.0.1 afinder.oewabox.at
 127.0.0.1 alphalux.oewabox.at
@@ -4001,11 +4333,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 woche.oewabox.at
 127.0.0.1 wohnnet.oewabox.at
 127.0.0.1 zfm.oewabox.at
-#</oewabox-sites>
-
-#<pegasus-spyware-sites>
-
-# Pegasus spyware sites.
 127.0.0.1 24-7clinic.com
 127.0.0.1 365redirect.co
 127.0.0.1 a-redirect.com
@@ -4479,27 +4806,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 youliehow.com
 127.0.0.1 yourbestclothes.com
 127.0.0.1 yummyfoodallover.com
-#</pegasus-spyware-sites>
-
-#<ad-sites>
-#<maybe-ads>
-#127.0.0.1 adfarm.mediaplex.com		# may interfere with ebay
-#127.0.0.1 ads.msn.com			#This may cause problems with zone.msn.com
-#127.0.0.1 ak.imgfarm.com		# may cause problems with iwon.com
-#127.0.0.1 click.linksynergy.com
-#127.0.0.1 global.msads.net		#This may cause problems with zone.msn.com
-#127.0.0.1 lads.myspace.com		# blocks myspace media/video players
-#127.0.0.1 refer.ccbill.com		#affiliate program, to add it back, remove the #
-#127.0.0.1 rmads.msn.com			#This may cause problems with zone.msn.com
-#127.0.0.1 www.apmebf.com		#qksrv
-#127.0.0.1 www.tkqlhce.com		#qksrv
-#127.0.0.1 ad.ca.doubleclick.net	#intereferes with video on globeandmail.com
-#127.0.0.1 transfer.go.com		#may interfere with Disney websites
-#</maybe-ads>
-
-# ads
-#127.0.0.1 aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
-#127.0.0.1 s.amazon-adsystem.com	# may interfere with Amazon ad preferences
 127.0.0.1 0101011.com
 127.0.0.1 0427d7.se
 127.0.0.1 0d79ed.r.axf8.net
@@ -5873,6 +6179,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 adserversolutions.com
 127.0.0.1 adservice.google.ca
 127.0.0.1 adservice.google.co.za
+127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.com.au
 127.0.0.1 adservice.google.cz
 127.0.0.1 adservice.google.nl
 127.0.0.1 adseu.novem.pl
@@ -8052,6 +8360,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 moz.execulink.net
 127.0.0.1 mozebyctwoje.com
 127.0.0.1 mr4evmd0r1.s.ad6media.fr
+127.0.0.1 mrazens.com
 127.0.0.1 ms-debug-services.com
 127.0.0.1 ms-downloading.com
 127.0.0.1 ms-home-live.com
@@ -8095,6 +8404,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 mygiftresource.com
 127.0.0.1 mygreatrewards.com
 127.0.0.1 mymediarecommendations.com
+127.0.0.1 mypopups.com
 127.0.0.1 mysagagame.com
 127.0.0.1 myseostats.com
 127.0.0.1 mytimerpro.com
@@ -8332,6 +8642,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 parafiaukta.pl
 127.0.0.1 parronnotandone.info
 127.0.0.1 parskabab.com
+127.0.0.1 partner-api.jobbio.com
 127.0.0.1 partner-ts.groupon.be
 127.0.0.1 partner-ts.groupon.co.uk
 127.0.0.1 partner-ts.groupon.com
@@ -9448,7 +9759,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 ucstat.baidu.com
 127.0.0.1 ud.adkmob.com
 127.0.0.1 udarem.com
-127.0.0.1 udec.cl
 127.0.0.1 uedata.amazon.com
 127.0.0.1 uelbdc74fn.s.ad6media.fr
 127.0.0.1 ugo.eu-adcenter.net
@@ -10019,6 +10329,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.gigdnetwork.com
 127.0.0.1 www.gm4pgv.plus.com
 127.0.0.1 www.gmads.net
+127.0.0.1 www.googleadservices.com
 127.0.0.1 www.grabbit-rabbit.com
 127.0.0.1 www.greasypalm.com
 127.0.0.1 www.greatdexchange.com
@@ -10140,6 +10451,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.morevisits.info
 127.0.0.1 www.mpression.net
 127.0.0.1 www.mr-mondial.com
+127.0.0.1 www.mrazens.com
 127.0.0.1 www.ms247.plus.com
 127.0.0.1 www.my-rewardsvault.com
 127.0.0.1 www.my-stats.com
@@ -10454,7 +10766,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www2.gorillavid.in
 127.0.0.1 www2.pubdirecte.com
 127.0.0.1 www2.tpgi.com.au
-127.0.0.1 www2.udec.cl
 127.0.0.1 www2.wyylde.com
 127.0.0.1 www2.zapadserver1.com
 127.0.0.1 www210.paypopup.com
@@ -10575,10 +10886,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 zu1.november-lax.com
 127.0.0.1 zulu.r867qq.net
 127.0.0.1 zytpirwai.net
-#</ad-sites>
-
-# https://securehomes.esat.kuleuven.be/~gacar/persistent/index.html
-#<canvass-fingerprinting-sites>
 127.0.0.1 admicro1.vcmedia.vn
 127.0.0.1 ct1.addthis.com
 127.0.0.1 cya2.net
@@ -10586,26 +10893,12 @@ ff02::3		ip6-allhosts
 127.0.0.1 images.revtrax.com
 127.0.0.1 shorte.st
 127.0.0.1 src.kitcode.net
-#</canvass-fingerprinting-sites>
-
-#<evercookies-sites>
 127.0.0.1 ar.hao123.com
 127.0.0.1 irs01.net
 127.0.0.1 kiks.yandex.ru
 127.0.0.1 y3.ifengimg.com
-#</evercookies-sites>
-
-#<yahoo-ad-sites>
-
-# yahoo banner ads
-#127.0.0.1 us.i1.yimg.com	#Uncomment this to block yahoo images
 127.0.0.1 in.yimg.com
 127.0.0.1 us.a1.yimg.com
-#</yahoo-ad-sites>
-
-#<hitbox-sites>
-
-# hitbox.com web bugs
 127.0.0.1 adminec1.hitbox.com
 127.0.0.1 ads.hitbox.com
 127.0.0.1 ai.hitbox.com
@@ -10897,11 +11190,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.hitbox.com
 127.0.0.1 yang.hitbox.com
 127.0.0.1 ying.hitbox.com
-#</hitbox-sites>
-
-#<extreme-dm-sites>
-
-# www.extreme-dm.com tracking
 127.0.0.1 extreme-dm.com
 127.0.0.1 reports.extreme-dm.com
 127.0.0.1 t.extreme-dm.com
@@ -10924,11 +11212,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 z.extreme-dm.com
 127.0.0.1 z0.extreme-dm.com
 127.0.0.1 z1.extreme-dm.com
-#</extreme-dm-sites>
-
-#<realmedia-sites>
-
-# realmedia.com's Open Ad Stream
 127.0.0.1 ap.oasfile.aftenposten.no
 127.0.0.1 oas-central.east.realmedia.com
 127.0.0.1 oas-central.realmedia.com
@@ -11040,17 +11323,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 oascentral.yellowpages.com
 127.0.0.1 oascentral.zwire.com
 127.0.0.1 oascentralnx.comcast.net
-#</realmedia-sites>
-
-#<fastclick-sites>
-
-# fastclick banner ads
 127.0.0.1 fastclick.net
-#</fastclick-sites>
-
-#<belo-interactive-sites>
-
-# belo interactive ads
 127.0.0.1 te.about.com
 127.0.0.1 te.adlandpro.com
 127.0.0.1 te.advance.net
@@ -11073,11 +11346,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 te.thestar.com
 127.0.0.1 te.trb.com
 127.0.0.1 te.versiontracker.com
-#</belo-interactive-sites>
-
-#<popup-traps>
-
-# popup traps -- sites that bounce you around or won't let you leave
 127.0.0.1 adultfriendfinder.com
 127.0.0.1 incestland.com
 127.0.0.1 lesview.com
@@ -11096,11 +11364,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.xxxnations.com
 127.0.0.1 www.xxxtoolbar.com
 127.0.0.1 www.yourfuckbook.com
-#</popup-traps>
-
-#<ecard-scam-sites>
-
-# malicious e-card -- these sites send out mass quantities of spam
 	# and some distribute adware and spyware
 127.0.0.1 123greetings.com	# contains one link to distributor of adware or spyware
 127.0.0.1 2000greetings.com
@@ -11125,16 +11388,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.friendgreetings.net
 127.0.0.1 www.laugh-mail.com
 127.0.0.1 www.laugh-mail.net
-#</ecard-scam-sites>
-
-#<IVW-sites>
-
-# European network of tracking sites
-#</IVW-sites>
-
-#<wiki-spam-sites>
-
-# message board and wiki spam -- these sites are linked in
 	# message board spam and are unlikely to be real sites
 127.0.0.1 21jewelry.com
 127.0.0.1 24x7.soliday.org
@@ -11631,11 +11884,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 zyrtec.1.p2l.info
 127.0.0.1 zyrtec.3.p2l.info
 127.0.0.1 zyrtec.4.p2l.info
-#</wiki-spam-sites>
-
-#<Windows10>
-
-# Windows 10 reporting domains.
 127.0.0.1 a.ads2.msads.net
 127.0.0.1 adnexus.net
 127.0.0.1 aidps.atdmt.com
@@ -11644,7 +11892,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 b.ads1.msn.com
 127.0.0.1 b.ads2.msads.net
 127.0.0.1 c.atdmt.com
-127.0.0.1 c.msn.com
 127.0.0.1 cdn.atdmt.com
 127.0.0.1 cds26.ams9.msecn.net
 127.0.0.1 db3aqu.atdmt.com
@@ -11661,39 +11908,3 @@ ff02::3		ip6-allhosts
 127.0.0.1 secure.flashtalking.com
 127.0.0.1 statsfe2.ws.microsoft.com
 127.0.0.1 wes.df.telemetry.microsoft.com
-#</Windows10>
-
-# Acknowledgements
-# I'd like to thank the following people for submitting sites, and
-# helping promote the site.
-
-# Bill Allison, Harj Basi, Lance Russhing, Marshall Drew-Brook,
-#  Leigh Brasington, Scott Terbush, Cary Newfeldt, Kaye, Jeff
-#  Scrivener, Mark Hudson, Matt Bells, T. Kim Nguyen, Lino Demasi,
-#  Marcelo Volmaro, Troy Martin, Donald Kerns, B.Patten-Walsh,
-#  bobeangi, Chris Maniscalco, George Gilbert, Kim Nilsson, zeromus,
-#  Robert Petty, Rob Morrison, Clive Smith, Cecilia Varni, OleKing
-#  Cole, William Jones, Brian Small, Raj Tailor, Richard Heritage,
-#  Alan Harrison, Ordorica, Crimson, Joseph Cianci, sirapacz,
-#  Dvixen, Matthew Craig, Tobias Hessem, Kevin F. Quinn, Thomas
-#  Corthals, Chris McBee, Jaime A. Guerra, Anders Josefson,
-#  Simon Manderson, Spectre Ghost, Darren Tay, Dallas Eschenauer, Cecilia
-#  Varni, Adam P. Cole, George Lefkaditis, grzesiek, Adam Howard, Mike
-#  Bizon, Samuel P. Mallare, Leinweber, Walter Novak, Stephen Genus,
-#  Zube, Johny Provoost, Peter Grafton, Johann Burkard, Magus, Ron Karner,
-#  Fredrik Dahlman, Michele Cybula, Bernard Conlu, Riku B, Twillers,
-#  Shaika-Dzari, Vartkes Goetcherian, Michael McCown, Garth, Richard Nairn,
-#  Exzar Reed, Robert Gauthier, Floyd Wilder, Mark Drissel, Kenny Lyons,
-#  Paul Dunne, Tirath Pannu, Mike Lambert, Dan Kolcun, Daniel Aleksandersen,
-#  Chris Heegard, Miles Golding, Daniel Bisca, Frederic Begou, Charles
-#  Fordyce, Mark Lehrer, Sebastien Nadeau-Jean, Russell Gordon, Alexey
-#  Gopachenko, Stirling Pearson, Alan Segal, Bobin Joseph, Chris Wall, Sean
-#  Flesch, Brent Getz, Jerry Cain, Brian Micek, Lee Hancock, Kay Thiele,
-#  Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas
-#  Marschall, Michael Tompkins, Michael O'Donnell, Jos&eacute; Lucas Teixeira
-#  de Oliveira, M. &Ouml;mer G&ouml;lgeli, and Anthony Gelibert for helping to build
-#  the hosts file.
-# Russell O'Connor for OS/2 information
-# kwadronaut for Windows 7 and Vista information
-# John Mueller and Lawrence H Smith for Mac Pre-OSX information
-# Jesse Baird for the Cisco IOS script
