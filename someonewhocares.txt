@@ -2855,6 +2855,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -7238,10 +7249,14 @@ ff02::3		ip6-allhosts
 127.0.0.1 a.adtng.com
 127.0.0.1 a.applvn.com
 127.0.0.1 a.baidu.com
+127.0.0.1 a.blesk.cz 
 127.0.0.1 a.boom.ro
 127.0.0.1 a.cctv.com
+127.0.0.1 a.centrum.cz 
 127.0.0.1 a.cntv.cn
+127.0.0.1 a.denik.cz 
 127.0.0.1 a.dynad.net
+127.0.0.1 a.iprima.cz 
 127.0.0.1 a.kerg.net
 127.0.0.1 a.libertystmedia.com
 127.0.0.1 a.ligatus.com
@@ -7251,6 +7266,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 a.prisacom.com
 127.0.0.1 a.rad.live.com
 127.0.0.1 a.rad.msn.com
+127.0.0.1 a.slunecnice.cz
 127.0.0.1 a.spolecznosci.net
 127.0.0.1 a.ss34.on9mail.com
 127.0.0.1 a.total-media.net
