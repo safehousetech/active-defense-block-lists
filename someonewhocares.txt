@@ -2987,6 +2987,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -4800,6 +4811,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 delphix.fr
 127.0.0.1 denx.fr
 127.0.0.1 department06.fr
+127.0.0.1 deposit-cra2023.com
 127.0.0.1 depositphotos.fr
 127.0.0.1 devguardmap.org
 127.0.0.1 dewinci.fr
@@ -5492,6 +5504,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 peremiere.fr
 127.0.0.1 petra.nic.gov.jo
 127.0.0.1 pexkr.comfortykive.xyz
+127.0.0.1 pfepfe.cc
 127.0.0.1 phising-initiative.fr
 127.0.0.1 phorm.ch
 127.0.0.1 phorm.co.uk
@@ -5527,6 +5540,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 poolin.fr
 127.0.0.1 poonstwifterspick.work
 127.0.0.1 portdusoleil.fr
+127.0.0.1 post-canada-delivery2023.com
 127.0.0.1 post.mil-gov.space
 127.0.0.1 postbox.mos.ru
 127.0.0.1 postis.fr
@@ -5617,6 +5631,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 salebestever.su
 127.0.0.1 santanderbank.fr
 127.0.0.1 sartoriz.fr
+127.0.0.1 sbh9hu4trk.com
 127.0.0.1 scei-concour.fr
 127.0.0.1 schlaukopf.fr
 127.0.0.1 sciencesetlavenir.fr
@@ -5728,6 +5743,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 tanieaukcje.com
 127.0.0.1 taniezakupy.pl
 127.0.0.1 tattooshaha.info			# Facebook trojan
+127.0.0.1 tax-canada2023.co
 127.0.0.1 tbebestknives.fr
 127.0.0.1 teamsport-philipp.fr
 127.0.0.1 tearbelt.com
@@ -5981,6 +5997,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.mshelp247.weebly.com
 127.0.0.1 www.mylike.co.uk			# Facebook trojan
 127.0.0.1 www.mylovecards.com
+127.0.0.1 www.mywot.com
 127.0.0.1 www.notepad2.com
 127.0.0.1 www.novemberrainx.com
 127.0.0.1 www.nu26.com
@@ -12094,6 +12111,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 thebrighttag.com
 127.0.0.1 thebuzz.today
 127.0.0.1 theestatehouse.co.uk
+127.0.0.1 theketo-complete.com
 127.0.0.1 themaplemethod.com
 127.0.0.1 theotime.net
 127.0.0.1 thepiratetrader.com
