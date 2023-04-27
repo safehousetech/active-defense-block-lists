@@ -3317,6 +3317,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -10219,6 +10230,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 evroteplo.ru
 127.0.0.1 exchange.scalemonk.com
 127.0.0.1 exclusivegiftcards.com
+127.0.0.1 exipure.net
 127.0.0.1 exponential.com
 127.0.0.1 ext.royalcactus.com
 127.0.0.1 eyewonder.com
@@ -10277,6 +10289,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 firrectly.top
 127.0.0.1 firstgame.xyz
 127.0.0.1 fixbonus.com
+127.0.0.1 fixxermorsel.za.com
 127.0.0.1 flbox.net
 127.0.0.1 fliplens.com
 127.0.0.1 floatingads.madisonavenue.com
