@@ -4263,6 +4263,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -5874,6 +5885,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 biaugerme.fr
 127.0.0.1 bighow.net
 127.0.0.1 bioware.fr
+127.0.0.1 biserka.xyz
 127.0.0.1 bitcoin-upappl.com
 127.0.0.1 bitcoinplus.com
 127.0.0.1 bitsoin.fr
@@ -5964,6 +5976,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cd-sport.fr
 127.0.0.1 cdn.jquery-uim.download
 127.0.0.1 ce-marketing.fr
+127.0.0.1 cebue.magmafurnace.top
 127.0.0.1 celestia.es
 127.0.0.1 celestia.fr
 127.0.0.1 cellu-clean.fr
@@ -6236,6 +6249,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 geopostcodes.fr
 127.0.0.1 get-answers-fast.com
 127.0.0.1 get24update.link4all.info
+127.0.0.1 getdispadsshop.com
 127.0.0.1 gglcash4u.info	# twitter worm
 127.0.0.1 gifii.fr
 127.0.0.1 gigaonclick.com
