@@ -4296,6 +4296,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -12375,6 +12386,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 new.lerian-nti.be
 127.0.0.1 newads.cmpnet.com
 127.0.0.1 newadserver.interfree.it
+127.0.0.1 newagevz.homes
 127.0.0.1 newclk.com
 127.0.0.1 newip427.changeip.net
 127.0.0.1 newjunk4u.com
@@ -13264,6 +13276,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 shrek.6.cn
 127.0.0.1 shrimpsqueezed.com
 127.0.0.1 si.hit.gemius.pl
+127.0.0.1 sidare.homes
 127.0.0.1 sifomedia.citypaketet.se
 127.0.0.1 signup.advance.net
 127.0.0.1 silcom.com
