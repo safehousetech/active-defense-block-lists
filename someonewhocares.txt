@@ -4879,6 +4879,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -7693,6 +7704,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 thenewswire.fr
 127.0.0.1 thesimsresource.fr
 127.0.0.1 thetorrentz.fr
+127.0.0.1 thickporter.sa.com
 127.0.0.1 thomasmore.fr
 127.0.0.1 thunderbird.es
 127.0.0.1 tibs.fr
@@ -12735,6 +12747,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 mcfg.sandai.net
 127.0.0.1 mcsgrp.com
 127.0.0.1 mdunker.gmxhome.de
+127.0.0.1 mechtech.za.com
 127.0.0.1 medhiartis.com
 127.0.0.1 media-angel.de
 127.0.0.1 media-fire.org
