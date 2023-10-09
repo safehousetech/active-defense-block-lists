@@ -5099,6 +5099,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -12894,6 +12905,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 m.openv.tv
 127.0.0.1 m.pl.pornzone.tv
 127.0.0.1 m.quantcount.com
+127.0.0.1 m.servedby-buysellads.com
 127.0.0.1 m.tidebuy.com
 127.0.0.1 m.tribalfusion.com
 127.0.0.1 m1.nsimg.net
@@ -13086,6 +13098,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 mokavilag.com
 127.0.0.1 monarchy.nl
 127.0.0.1 monetate.net
+127.0.0.1 monetizepros.com
 127.0.0.1 moneybot.net
 127.0.0.1 moneyraid.com
 127.0.0.1 monkposseacre.casa
@@ -14027,6 +14040,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 serve.mediayan.com
 127.0.0.1 serve.popads.net
 127.0.0.1 serve.prestigecasino.com
+127.0.0.1 servedby-buysellads.com
 127.0.0.1 servedby.adcombination.com
 127.0.0.1 servedby.flashtalking.com
 127.0.0.1 servedbyadbutler.com
@@ -15267,6 +15281,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.mjonkers.nl
 127.0.0.1 www.mlntracker.com
 127.0.0.1 www.mochibot.com
+127.0.0.1 www.monetizemore.com
 127.0.0.1 www.morefreecamsecrets.com
 127.0.0.1 www.morevisits.info
 127.0.0.1 www.mpression.net
@@ -15393,6 +15408,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.searchingzone.com
 127.0.0.1 www.searchwe.com
 127.0.0.1 www.securerunner.com
+127.0.0.1 www.servedby-buysellads.com
 127.0.0.1 www.servitemequipos.cl
 127.0.0.1 www.seward.net
 127.0.0.1 www.sexadvertentiesite.nl
