@@ -5682,6 +5682,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -7378,6 +7389,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 canadapost-delivery-reshedule.com
 127.0.0.1 canadapost-paymentservice.com
 127.0.0.1 capitalregionusa.fr
+127.0.0.1 capostdelivery.com
 127.0.0.1 carac-terres.fr
 127.0.0.1 carrfefour.fr
 127.0.0.1 cartoonnetworkarabic.fr
@@ -7458,6 +7470,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 compe-nickel.fr
 127.0.0.1 compufixshop.com
 127.0.0.1 comsss-56.com
+127.0.0.1 con-trnroayl.online
 127.0.0.1 conduit.com
 127.0.0.1 confg.fr
 127.0.0.1 conseil-coaching-jardinage.fr
