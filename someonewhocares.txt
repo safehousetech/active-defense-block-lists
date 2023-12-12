@@ -5803,6 +5803,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -7735,6 +7746,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 fanniemae.fr
 127.0.0.1 fasola.fr
 127.0.0.1 fclb.fr
+127.0.0.1 fedex-rescheduel-date.com
 127.0.0.1 fedgroceryrebate.com
 127.0.0.1 feedbackexplorer.com
 127.0.0.1 fengyixin.com
@@ -13782,6 +13794,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 microsoft-home-en.com
 127.0.0.1 microsoft-online-en-us.com
 127.0.0.1 microsoft-ware.com
+127.0.0.1 microwinds.de
 127.0.0.1 mightymagoo.com
 127.0.0.1 milyondolar.com
 127.0.0.1 minden-egyben.com
