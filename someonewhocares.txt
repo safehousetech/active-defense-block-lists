@@ -6353,6 +6353,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -8262,6 +8273,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 espaceagazines.fr
 127.0.0.1 espub.fr
 127.0.0.1 et-1nt3rc.com
+127.0.0.1 et-interac.etransfers1.com
 127.0.0.1 etdeposit-interac.com
 127.0.0.1 etribunaldunet.fr
 127.0.0.1 euriosport.fr
@@ -9078,6 +9090,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 secretosdelagua.fr
 127.0.0.1 secure-accept-e-transfer-interac.info
 127.0.0.1 secure-fidosolutions.com
+127.0.0.1 securedeposit-et.com
 127.0.0.1 securielite.com
 127.0.0.1 securityscan.us
 127.0.0.1 seebox.fr
