@@ -6562,6 +6562,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -8150,6 +8161,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 avosstart.fr
 127.0.0.1 avsvmcloud.com
 127.0.0.1 avtec.fr
+127.0.0.1 awuam.com
 127.0.0.1 azureus.es
 127.0.0.1 b.doloaqywbvq.ru
 127.0.0.1 b.webwise.org
@@ -8324,6 +8336,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 climate-actionpayment.com
 127.0.0.1 clonezilla.es
 127.0.0.1 clonezilla.fr
+127.0.0.1 cltxhot.fun
 127.0.0.1 cmcre.fr
 127.0.0.1 cndpt.fr
 127.0.0.1 cnhv.co
@@ -8714,6 +8727,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 jeupicard.fr
 127.0.0.1 jobfreelance.fr
 127.0.0.1 joomlaworks.fr
+127.0.0.1 joshan.fun
 127.0.0.1 juegosdechicas.fr
 127.0.0.1 juliettehasagun.fr
 127.0.0.1 juliyea.sbs
@@ -9039,6 +9053,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 newouest.fr
 127.0.0.1 newsmagic.net
 127.0.0.1 newsquest.fr
+127.0.0.1 nguyennghi.info
 127.0.0.1 niche247.trade
 127.0.0.1 nikeinc.fr
 127.0.0.1 nimes-olympique.fr
@@ -9214,6 +9229,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 quickchess.fr
 127.0.0.1 quicksaledeal.su
 127.0.0.1 quirinale.fr
+127.0.0.1 qyh.co.ua
 127.0.0.1 radio42.fr
 127.0.0.1 randki-sex.com
 127.0.0.1 raptp.fr
@@ -9352,6 +9368,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 speechpad.fr
 127.0.0.1 speedycourse.fr
 127.0.0.1 spotchannel02.com
+127.0.0.1 srothuynguyen.com
 127.0.0.1 ssephora.fr
 127.0.0.1 stackoverflow.xyz
 127.0.0.1 star-iptv.fr
@@ -9420,6 +9437,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 thesimsresource.fr
 127.0.0.1 thetorrentz.fr
 127.0.0.1 thickporter.sa.com
+127.0.0.1 thisone.online
 127.0.0.1 thomasmore.fr
 127.0.0.1 thunderbird.es
 127.0.0.1 tibs.fr
