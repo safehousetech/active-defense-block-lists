@@ -6573,6 +6573,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -8059,6 +8070,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 acmen.fr
 127.0.0.1 acnenomor.com
 127.0.0.1 acsentia.fr
+127.0.0.1 activateprofile.info
 127.0.0.1 activebeat.fr
 127.0.0.1 aculo.fr
 127.0.0.1 ad.g-content.bid
@@ -8317,6 +8329,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 chrliehebdo.fr
 127.0.0.1 chu-bordeau.fr
 127.0.0.1 chu-morlaix.fr
+127.0.0.1 cibc-oniinecibc.com
 127.0.0.1 cibconline-login.com
 127.0.0.1 cic-epargnrsalariale.fr
 127.0.0.1 cicontents.biz
@@ -9046,6 +9059,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 neko-scan.fr
 127.0.0.1 neon-genesis-evangelion-online.fr
 127.0.0.1 neowordprss.fr
+127.0.0.1 netflix-memberships.com
 127.0.0.1 netflix-updateinfo.com
 127.0.0.1 netflix.apple-green.net
 127.0.0.1 netflixca-updateprofilehelp.com
