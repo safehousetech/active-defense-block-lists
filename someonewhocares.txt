@@ -6683,6 +6683,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -8599,6 +8610,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 espub.fr
 127.0.0.1 et-1nt3rc.com
 127.0.0.1 et-interac.etransfers1.com
+127.0.0.1 et-mycostcorewards.info
 127.0.0.1 etdeposit-interac.com
 127.0.0.1 etribunaldunet.fr
 127.0.0.1 euriosport.fr
@@ -8629,6 +8641,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 fanniemae.fr
 127.0.0.1 fasola.fr
 127.0.0.1 fclb.fr
+127.0.0.1 fdoverbilled.com
 127.0.0.1 fedex-rescheduel-date.com
 127.0.0.1 fedex-rescheduel-delivery-date.com
 127.0.0.1 fedgroceryrebate.com
@@ -9317,6 +9330,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 pro-accesssoires.fr
 127.0.0.1 probikesshop.fr
 127.0.0.1 proclickpacket.com
+127.0.0.1 profileconfirm.info
 127.0.0.1 profilenetflix.com
 127.0.0.1 profilenotice.info
 127.0.0.1 profit-btc.org
