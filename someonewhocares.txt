@@ -6727,6 +6727,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -8306,6 +8317,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 audacity.pl
 127.0.0.1 augi.fr
 127.0.0.1 auirbnb.fr
+127.0.0.1 authscotia-signinscotia.com
 127.0.0.1 auto-entrereneur.fr
 127.0.0.1 autohipnose.com
 127.0.0.1 automedik.fr
@@ -8684,6 +8696,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 festicolor.fr
 127.0.0.1 ffesm.fr
 127.0.0.1 fichier-pdfr.fr
+127.0.0.1 fido-team.com
 127.0.0.1 figato.fr
 127.0.0.1 files.ukr.net.ssl2.in
 127.0.0.1 filezilla.fr
