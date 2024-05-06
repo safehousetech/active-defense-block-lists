@@ -7409,6 +7409,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -12343,6 +12354,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 adcontent.gamespy.com
 127.0.0.1 adcontent.reedbusiness.com
 127.0.0.1 adcontroller.unicast.com
+127.0.0.1 adcovery.com
 127.0.0.1 adcycle.footymad.net
 127.0.0.1 add.f5haber.com
 127.0.0.1 addelivery.thestreet.com
@@ -14729,7 +14741,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 h-adashx4ae.ut.taobao.com
 127.0.0.1 h-afnetwww.adshuffle.com
 127.0.0.1 h.ppjol.com
-127.0.0.1 h.seznam.cz
 127.0.0.1 h1.helenrosi.com
 127.0.0.1 h2.helenrosi.com
 127.0.0.1 h3.helenrosi.com
@@ -17157,6 +17168,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 whos.amung.us
 127.0.0.1 widespace.com
 127.0.0.1 widget.achetezfacile.com
+127.0.0.1 widget.adcovery.com
 127.0.0.1 widget3.linkwithin.com
 127.0.0.1 widget5.linkwithin.com
 127.0.0.1 widgets.amung.us
