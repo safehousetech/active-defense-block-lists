@@ -7486,6 +7486,17 @@ ff00::0		ip6-mcastprefix
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
 127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -8926,6 +8937,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 0.nextyourcontent.com
 127.0.0.1 05tz2e9.com
 127.0.0.1 1001paixnidia.fr
+127.0.0.1 105915624.com
 127.0.0.1 10tide.com
 127.0.0.1 1percent.fr
 127.0.0.1 2006mindfreaklike.blogspot.com	# Facebook trojan
@@ -10200,6 +10212,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 rockrose.fr
 127.0.0.1 rocks.io
 127.0.0.1 rockthebretzel.fr
+127.0.0.1 rogers-wirelessphone.com
 127.0.0.1 roivant.fr
 127.0.0.1 rojadirectatv.fr
 127.0.0.1 romdiscover.com
@@ -17051,6 +17064,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 uk-ads.openx.net
 127.0.0.1 uk.adserver.yahoo.com
 127.0.0.1 uk.bitcoinfreedom-appl.t500track42.com
+127.0.0.1 ukrashulya.ru
 127.0.0.1 uktc.ijento.com
 127.0.0.1 ultrasponsor.com
 127.0.0.1 ulusalofis.com
@@ -17404,6 +17418,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.aureate.com
 127.0.0.1 www.autohipnose.com
 127.0.0.1 www.automotive-offer.com
+127.0.0.1 www.avenues-inc.com
 127.0.0.1 www.avsads.com
 127.0.0.1 www.awltovhc.com
 127.0.0.1 www.baba-t.com
